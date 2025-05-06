@@ -1,0 +1,12 @@
+# Ignore model checkpoint and weights files
+*.ckpt
+*.h5
+*.hdf5
+*.pb
+*.pt
+*.pth
+*.tflite
+*.joblib
+*.pkl
+*.sav
+*.onnx
